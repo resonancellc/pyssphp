@@ -1,0 +1,22 @@
+{
+    "name": "pyssphp/string",
+    "description": "Python String Slice for PHP",
+    "type": "library",
+    "keywords": ["library", "string"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Villepinte",
+            "email": "fabien.villepinte@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "hoa/string": "master"
+    },
+    "autoload": {
+        "psr-0": { "pyssphp": "src/" }
+    },
+    "minimum-stability": "dev"
+}
