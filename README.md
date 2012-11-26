@@ -1,5 +1,7 @@
 # pyssphp - Python String Slice for PHP #
 
+[![Build Status](https://secure.travis-ci.org/villfa/pyssphp.png?branch=master)](http://travis-ci.org/villfa/pyssphp)
+
 ## What is pyssphp? ##
 
 pyssphp is a PHP library.
