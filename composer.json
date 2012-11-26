@@ -3,7 +3,7 @@
     "description": "Python String Slice for PHP",
     "type": "library",
     "keywords": ["library", "string"],
-    "homepage": "",
+    "homepage": "https://github.com/villfa/pyssphp",
     "license": "MIT",
     "authors": [
         {
